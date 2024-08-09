@@ -1,8 +1,6 @@
 # Analyzing-the-Impact-of-Funding-and-Number-of-Funding-Rounds-on-Startup-Survival
 
 
-### Introduction 
-
 ### Introduction
 
 Startups play a pivotal role in driving economic growth, innovation, and job creation, particularly in a dynamic and rapidly growing economy like India. These entrepreneurial ventures often serve as engines of economic transformation, introducing disruptive technologies, creating new markets, and fostering competition. However, the journey of a startup is fraught with challenges, and not all of them succeed in reaching their full potential. Understanding the factors that contribute to the success or failure of startups is crucial for stakeholders, including investors, policymakers, and entrepreneurs.
